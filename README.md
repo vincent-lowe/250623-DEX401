@@ -8,11 +8,11 @@ Vincent Lowe - agentv@gmail.com
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:							
+Attendance Code:							3Y25WB
 
 Salesforce Mimeo:							https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:					
+eBook Redemption Key:					USV4Y1KK2NTE
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:									https://www.research.net/r/trailheadacademy
