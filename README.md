@@ -60,8 +60,10 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Taxi (theme song)|Bob James||
-|Smooth Criminal|Luca Stricagnoli||
+|You Go To My Head|Louis Armstrong||
 |Sixteen Tons"|Geoff Castellucci||
+|Smooth Criminal|Luca Stricagnoli||
+
 
 
 
