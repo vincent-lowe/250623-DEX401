@@ -63,6 +63,7 @@ Classroom Playlist
 |You Go To My Head|Louis Armstrong||
 |Sixteen Tons"|Geoff Castellucci||
 |Smooth Criminal|Luca Stricagnoli||
+|Walking Stick|Leon Redbone||
 
 
 
