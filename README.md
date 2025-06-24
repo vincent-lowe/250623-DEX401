@@ -68,6 +68,7 @@ Classroom Playlist
 |The City of New Orleans|Arlo Guthrie||
 |Analog Hero|Mark Erelli||
 |Midnight Train to Georgia|Gladys Knight||
+|Dos Oruguitas|Steven Joseph||
 
 
 
