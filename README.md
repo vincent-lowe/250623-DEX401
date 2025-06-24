@@ -61,10 +61,11 @@ Classroom Playlist
 |-----------|------|-----|
 |Taxi (theme song)|Bob James||
 |You Go To My Head|Louis Armstrong||
-|Sixteen Tons"|Geoff Castellucci||
+|Sixteen Tons|Geoff Castellucci||
 |Smooth Criminal|Luca Stricagnoli||
 |Walking Stick|Leon Redbone||
 |Just Dropped In (to see what condition my condition is in)|Willie Nelson||
+|The City of New Orleans|Arlo Guthrie||
 
 
 
