@@ -28,7 +28,7 @@ Postman: https://www.postman.com/downloads/
 
 Help: https://help.mulesoft.com/
 
-Docs: https://docs.mulesoft.com
+Docs: https://docs.mulesoft.com - https://docs.mulesoft.com/runtime-manager/
 
 Log Analyzer Tool: https://help.mulesoft.com/s/article/Support-Log-file-analyzer-tool
 
