@@ -71,8 +71,9 @@ Classroom Playlist
 |Dos Oruguitas|Steven Joseph||
 |The Streetbeater|Quincy Jones|TV Theme from Sanford & Son|
 |Pickup Truck Song|Jerry Jeff Walker||
+|Hello Goodbye|The Beatles|remasterd: 2002|
 |Lie|Rebecca Loebe|album: Blink|
-
+|Can't Find My Way Home|Bonnie Raitt||
 
 
 
