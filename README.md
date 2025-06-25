@@ -64,12 +64,12 @@ Classroom Playlist
 |Sixteen Tons|Geoff Castellucci||
 |Smooth Criminal|Luca Stricagnoli||
 |Walking Stick|Leon Redbone||
-|Just Dropped In (to see what condition my condition is in)|Willie Nelson||
+|Just Dropped In (to see what condition my condition is in)|Willie Nelson|album: The Great Divide|
 |The City of New Orleans|Arlo Guthrie||
 |Analog Hero|Mark Erelli||
 |Midnight Train to Georgia|Gladys Knight||
 |Dos Oruguitas|Steven Joseph||
-
+|The Streetbeater|Quincy Jones|TV Theme from Sanford & Son|
 
 
 
