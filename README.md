@@ -70,8 +70,8 @@ Classroom Playlist
 |Midnight Train to Georgia|Gladys Knight||
 |Dos Oruguitas|Steven Joseph||
 |The Streetbeater|Quincy Jones|TV Theme from Sanford & Son|
-
-
+|Pickup Truck Song|Jerry Jeff Walker||
+|Lie|Rebecca Loebe|album: Blink|
 
 
 
