@@ -77,6 +77,8 @@ Classroom Playlist
 |Good Day for a Good Day|Michael Franti||
 |Hotel California|Moyun Official||
 |Man of Constant Sorrow|Geoff Castellucci||
+|Sweet Home Alabama|Luca Stricagnoli||
+|Hotel California|Laszlo Buring||
 
 
 
