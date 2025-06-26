@@ -74,7 +74,7 @@ Classroom Playlist
 |Hello Goodbye|The Beatles|remasterd: 2002|
 |Lie|Rebecca Loebe|album: Blink|
 |Can't Find My Way Home|Bonnie Raitt||
-
+|Good Day for a Good Day|Michael Franti||
 
 
 
