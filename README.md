@@ -76,6 +76,8 @@ Classroom Playlist
 |Can't Find My Way Home|Bonnie Raitt||
 |Good Day for a Good Day|Michael Franti||
 |Hotel California|Moyun Official||
+|Man of Constant Sorrow|Geoff Castellucci||
+
 
 
 
