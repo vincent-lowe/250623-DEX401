@@ -83,6 +83,9 @@ Classroom Playlist
 |How Can You Mend a Broken Heart|Al Green|BeeGees cover|
 |Charlie Dunn|Jerry Jeff Walker||
 |California|Rebecca Loebe||
+|Final Countdown|Europe||
+|Crazy He Calls Me|Billie Holiday|
+|Closing Time|Lyle Lovett with Nanci Griffith||
 
 
 
