@@ -79,7 +79,7 @@ Classroom Playlist
 |Man of Constant Sorrow|Geoff Castellucci||
 |Sweet Home Alabama|Luca Stricagnoli||
 |Hotel California|Laszlo Buring||
-
+|Feeling Good|Nina Simone||
 
 
 
