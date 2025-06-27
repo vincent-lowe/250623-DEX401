@@ -80,6 +80,7 @@ Classroom Playlist
 |Sweet Home Alabama|Luca Stricagnoli||
 |Hotel California|Laszlo Buring||
 |Feeling Good|Nina Simone||
+|How Can You Mend a Broken Heart|Al Green|BeeGees cover|
 
 
 
