@@ -81,7 +81,8 @@ Classroom Playlist
 |Hotel California|Laszlo Buring||
 |Feeling Good|Nina Simone||
 |How Can You Mend a Broken Heart|Al Green|BeeGees cover|
-
+|Charlie Dunn|Jerry Jeff Walker||
+|California|Rebecca Loebe||
 
 
 
